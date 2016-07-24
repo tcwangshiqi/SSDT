@@ -1,0 +1,4 @@
+TARGETNAME=myhook
+TARGETTYPE=DRIVER
+SOURCES=myhook.c
+

@@ -1,0 +1,6 @@
+1>warnings in directory c:\winddk\7600.16385.1\user\myhook
+1>c:\winddk\7600.16385.1\user\myhook\myhook.c(58) : warning C4273: 'PsGetProcessId' : inconsistent dll linkage
+1>c:\winddk\7600.16385.1\user\myhook\myhook.c(149) : warning C4022: 'PsLookupProcessByProcessId' : pointer mismatch for actual parameter 1
+1>c:\winddk\7600.16385.1\user\myhook\myhook.c(149) : warning C4047: 'function' : 'PEPROCESS *' differs in levels of indirection from 'PEPROCESS'
+1>c:\winddk\7600.16385.1\user\myhook\myhook.c(149) : warning C4024: 'PsLookupProcessByProcessId' : different types for formal and actual parameter 2
+1>c:\winddk\7600.16385.1\user\myhook\myhook.c(327) : warning C4047: '=' : 'ULONG' differs in levels of indirection from 'ULONG *'
